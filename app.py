@@ -1,3 +1,4 @@
+# KR2: Tereshin
 import os
 import socket
 
